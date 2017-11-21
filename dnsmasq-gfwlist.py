@@ -13,8 +13,8 @@ import datetime
 import base64
 import shutil
  
-mydnsip = '127.0.0.1'
-mydnsport = '1053'
+mydnsip = '208.67.222.222'
+mydnsport = '443'
 
 # the url of gfwlist
 baseurl = 'https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt'
